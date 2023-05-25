@@ -68,7 +68,9 @@ const Experince = () => {
           <p className=" text-4xl font-bold inline border-b-4 border-gray-400 ">
             Experince
           </p>
-          <p className=" py-6">Thise are the technologies I've worked with </p>
+          <p className=" py-6">
+            Thise are the technologies I well be worked with{" "}
+          </p>
         </div>
 
         <div className=" w-full grid grid-cols-2 md:grid-cols-3 gap-8 text-center py-8 px-12 md:px-0 ">

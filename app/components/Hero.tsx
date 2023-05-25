@@ -8,7 +8,7 @@ const Hero = () => {
       <div className=" max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className=" text-white flex flex-col justify-center h-full space-y-5">
           <h2 className="  text-4xl md:text-7xl font-bold mt-[350px] md:mt-0 text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-yellow-500">
-            I'm a Full Stack Developer
+            Im a Full Stack Developer
           </h2>
           <p className=" text-gray-400 max-w-md">
             I have 2 years experience Web Developer. I love to work on Web
