@@ -70,11 +70,13 @@ const Portfoli = () => {
               <div className=" flex items-center justify-center">
                 <Link
                   href={siteLink}
+                  target="_"
                   className=" w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105"
                 >
                   Demo
                 </Link>
                 <Link
+                  target="_"
                   href={githubLink}
                   className=" w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105"
                 >
