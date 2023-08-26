@@ -10,38 +10,6 @@ const Navbar = () => {
       <div>
         <h1 className=" text-5xl font-signature ml-2">Maruf</h1>
       </div>
-      <ul className=" hidden md:flex items-center gap-x-6 font-semibold">
-        <Link
-          href="#"
-          className=" cursor-pointer capitalize text-gray-500 hover:scale-105 duration-200"
-        >
-          home
-        </Link>
-        <Link
-          className=" cursor-pointer capitalize text-gray-500 hover:scale-105 duration-200"
-          href="#"
-        >
-          about
-        </Link>
-        <Link
-          href="#"
-          className=" cursor-pointer capitalize text-gray-500 hover:scale-105 duration-200"
-        >
-          portfolio
-        </Link>
-        <Link
-          href="#"
-          className=" cursor-pointer capitalize text-gray-500 hover:scale-105 duration-200"
-        >
-          experience
-        </Link>
-        <Link
-          href="#"
-          className=" cursor-pointer capitalize text-gray-500 hover:scale-105 duration-200"
-        >
-          contact
-        </Link>
-      </ul>
 
       <div
         className=" md:hidden cursor-pointer pr-4 z-10 text-gray-500"

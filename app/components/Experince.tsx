@@ -7,6 +7,7 @@ import {
   javascript,
   nextjs,
   react,
+  reactNative,
   tailwind,
 } from "../../public/assets";
 
@@ -59,6 +60,12 @@ const Experince = () => {
       src: github,
       title: "GitHub",
       style: "shadow-gray-400",
+    },
+    {
+      id: 9,
+      src: reactNative,
+      title: "React Native",
+      style: "shadow-blue-600",
     },
   ];
   return (

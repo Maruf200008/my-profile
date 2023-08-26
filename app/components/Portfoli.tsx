@@ -1,11 +1,11 @@
 import Link from "next/link";
 import {
-  booking,
-  gymBrain,
+  homeLand,
   ieltsClone,
   landingPage,
+  ollyo,
   salon,
-  shopingCard,
+  shortly,
 } from "../../public/assets";
 
 import Image from "next/image";
@@ -14,33 +14,33 @@ const Portfoli = () => {
   const portfolis = [
     {
       id: 1,
+      src: shortly,
+      siteLink: "https://relaxed-halva-74798e.netlify.app",
+      githubLink: "https://github.com/Maruf200008/shortly",
+    },
+    {
+      id: 2,
+      src: homeLand,
+      siteLink: "https://real-state-website-kappa.vercel.app",
+      githubLink: "https://github.com/Maruf200008/real-state-website",
+    },
+    {
+      id: 3,
+      src: ollyo,
+      siteLink: "https://ollyo-clone.vercel.app",
+      githubLink: "https://github.com/Maruf200008/ollyo-clone",
+    },
+    {
+      id: 4,
       src: ieltsClone,
       siteLink: "https://strong-genie-7f43f1.netlify.app",
       githubLink: "https://github.com/Maruf200008/ielts-clone",
     },
     {
-      id: 2,
+      id: 5,
       src: landingPage,
       siteLink: "https://funny-gnome-ef52d0.netlify.app",
       githubLink: "https://github.com/Maruf200008/tailwindCss-LandingPage",
-    },
-    {
-      id: 3,
-      src: booking,
-      siteLink: "https://imaginative-bavarois-d80524.netlify.app",
-      githubLink: "https://github.com/Maruf200008/assinmengt-4",
-    },
-    {
-      id: 4,
-      src: shopingCard,
-      siteLink: "https://vermillion-faloodeh-2e7fdc.netlify.app",
-      githubLink: "https://github.com/Maruf200008/assignment-7",
-    },
-    {
-      id: 5,
-      src: gymBrain,
-      siteLink: "https://gym-brain-two.vercel.app",
-      githubLink: "github.com/Maruf200008/Gym-brain",
     },
     {
       id: 6,

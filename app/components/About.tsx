@@ -9,10 +9,10 @@ const About = () => {
         </div>
         <p className=" text-xl mt-10 md:mt-20">
           Hi, I am Mohammad Maruf from Chandpur, Bangladesh. Experienced with
-          MERN Stack. My academic background is non-technical but still, I take
-          my career as a Web Developer because of my interest and curiosity. I
-          completed a Web Development course. Where I learned MERN Stack and
-          completed 2+ MERN Stack projects as assignments.
+          Frontend Developer. My academic background is non-technical but still,
+          I take my career as a Web Developer because of my interest and
+          curiosity. I completed a Web Development course. Where I learned Web
+          Development and completed 15+ Frontend projects as assignments.
         </p>
         <br />
         <p className=" text-xl">
